@@ -1,0 +1,27 @@
+key, comment
+Incl.Keygen, 包含有注册器
+keygen only, 只含注册器
+WinALL, 适用于所有版本Windows操作系统（一般是指95 98 ME 2000 XP 2003）
+Trainer, 密技
+Cracked, 破解版本（对原文件进行了修改）
+MACOSX, Macintosh平台上的软件
+NUKED, 发布的内容违犯规则或存在问题因而被取消，别的小组可重新发布。
+Ebook, 电子书
+Repack, 重新打包(对上一个不成功的破解的修正)
+Proper, 正确的(对上一个不成功的破解的修正)
+Plug in, 插件
+regged, 已經注册了的軟件
+retail, 零售版
+READ.NFO, 一般表示有某种特别说明
+DIRFIX nfo, 说明文件修正，一般只有一个nfo文件
+BiLiNGUAL, 双语版本
+MutilLiNGUAL, 多语言版本
+PHP.NULL, PHP完整脚本程序
+ASP.NULL, ASP完整脚本程序
+Incl.Patch, 带有破解补丁
+WORKING, 先前已有组织释放，但是不能完整工作，当前的释放是完整工作的。
+Licensed, 带有许可文件
+FiXED, 重新修正版
+Unlocker, 解锁补丁
+Cheats, 作弊修改器
+ALL.Access.CHEAT, 通关秘籍电影文件名常识
